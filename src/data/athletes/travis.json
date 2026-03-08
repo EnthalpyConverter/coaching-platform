@@ -1,0 +1,73 @@
+{
+  "id": "travis",
+  "name": "Travis",
+  "email": "travis@example.com",
+  "weightKg": 75,
+  "experienceLevel": "advanced",
+  "weeklyAvailableHours": 12,
+  "availableDaysPerWeek": 6,
+  "goals": [
+    "Finish Angeles Crest 100 under 28 hours",
+    "Build consistent 80+ km weeks",
+    "Improve climbing efficiency"
+  ],
+  "races": [
+    {
+      "id": "ac100-2026",
+      "name": "Angeles Crest 100",
+      "date": "2026-08-01",
+      "distanceKm": 161,
+      "elevationGainM": 6200,
+      "location": "Wrightwood, CA",
+      "priority": "A",
+      "courseProfile": "mountainous",
+      "crewAccessible": true,
+      "pacerAllowed": true,
+      "cutoffHours": 34
+    },
+    {
+      "id": "sobr-50k-2026",
+      "name": "Sean O'Brien 50K",
+      "date": "2026-04-18",
+      "distanceKm": 50,
+      "elevationGainM": 2100,
+      "location": "Malibu, CA",
+      "priority": "B",
+      "courseProfile": "rolling",
+      "crewAccessible": false,
+      "pacerAllowed": false,
+      "cutoffHours": 10
+    },
+    {
+      "id": "mt-disappointment-2026",
+      "name": "Mt. Disappointment 50K",
+      "date": "2026-06-06",
+      "distanceKm": 50,
+      "elevationGainM": 2800,
+      "location": "Angeles National Forest, CA",
+      "priority": "B",
+      "courseProfile": "mountainous",
+      "crewAccessible": false,
+      "pacerAllowed": false,
+      "cutoffHours": 12
+    }
+  ],
+  "injuryHistory": "Minor left ankle sprain (2024), occasional right IT band tightness",
+  "trainingHistory": {
+    "recentWeeklyKm": 65,
+    "longestRunKm": 50,
+    "yearsRunning": 8,
+    "previousUltras": [
+      "Angeles Crest 100 (2024, 30:15)",
+      "Miwok 100K (2023, 13:45)",
+      "Tushars 70K (2023, 10:20)",
+      "Sean O'Brien 100K (2022, 3rd place)"
+    ]
+  },
+  "preferences": {
+    "preferredTerrain": "trail",
+    "hasAccessToTrails": true,
+    "hasAccessToTrack": true,
+    "preferredLongRunDay": "Saturday"
+  }
+}

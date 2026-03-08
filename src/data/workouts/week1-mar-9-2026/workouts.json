@@ -1,0 +1,151 @@
+[
+  {
+    "id": "w-2026-03-09-mon",
+    "date": "2026-03-09",
+    "type": "TempoRun",
+    "title": "Tempo Repeats - Uphill",
+    "rpe": 8,
+    "durationMinutes": 75,
+    "warmup": { "durationMinutes": 15, "rpe": 5, "description": "Easy jog with 4 strides" },
+    "cooldown": { "durationMinutes": 10, "rpe": 4, "description": "Easy jog" },
+    "intervals": [
+      { "durationMinutes": 15, "rpe": 8, "description": "Uphill tempo at LT effort" },
+      { "durationMinutes": 5, "rpe": 5, "description": "Easy recovery jog downhill" },
+      { "durationMinutes": 15, "rpe": 8, "description": "Uphill tempo at LT effort" },
+      { "durationMinutes": 5, "rpe": 5, "description": "Easy recovery jog downhill" },
+      { "durationMinutes": 10, "rpe": 8, "description": "Uphill tempo at LT effort" }
+    ],
+    "descriptionMd": "## Tempo Repeats - Uphill\n\nFirst hard session of the TempoRun phase. Attack these while you're fresh.\n\n### Structure\n- **Warmup:** 15 min easy + 4 strides\n- **3 x Uphill Tempo** at RPE 8 (15/15/10 min) with 5 min easy jog recovery\n- **Cooldown:** 10 min easy jog\n\n### Notes\n- Find a sustained climb of 6-8% grade\n- Breathing should be deep and labored but controlled\n- Pace will be slower than flat tempo; that's expected\n- Focus on consistent effort, not pace\n\n### Nutrition\n- Hydrate well beforehand\n- No fueling needed during this session (under 90 min)",
+    "nutrition": {
+      "estimatedCalories": 750,
+      "carbTargetGPerHr": 0,
+      "sodiumMgPerHr": 500,
+      "fluidOzPerHr": 20,
+      "notes": "Under 90 min - water only"
+    },
+    "environment": "trail",
+    "elevationGainM": 450
+  },
+  {
+    "id": "w-2026-03-10-tue",
+    "date": "2026-03-10",
+    "type": "TempoRun",
+    "title": "Back-to-Back Tempo - Flat",
+    "rpe": 8,
+    "durationMinutes": 60,
+    "warmup": { "durationMinutes": 15, "rpe": 5, "description": "Easy jog with 4 strides" },
+    "cooldown": { "durationMinutes": 10, "rpe": 4, "description": "Easy jog" },
+    "intervals": [
+      { "durationMinutes": 12, "rpe": 8, "description": "Flat tempo at LT effort" },
+      { "durationMinutes": 3, "rpe": 5, "description": "Easy jog" },
+      { "durationMinutes": 12, "rpe": 8, "description": "Flat tempo at LT effort" },
+      { "durationMinutes": 3, "rpe": 5, "description": "Easy jog" },
+      { "durationMinutes": 10, "rpe": 8, "description": "Flat tempo at LT effort" }
+    ],
+    "descriptionMd": "## Back-to-Back Tempo - Flat\n\nSecond consecutive tempo day. Expect your legs to feel heavy. The point is to run on tired legs and accumulate training stress.\n\n### Structure\n- **Warmup:** 15 min easy + 4 strides\n- **3 x Flat Tempo** (12/12/10 min) at RPE 8 with 3 min easy jog\n- **Cooldown:** 10 min easy jog\n\n### Notes\n- Quality will be lower than yesterday; that is intentional\n- Road or flat trail\n- If RPE hits 9 early, shorten intervals rather than pushing through",
+    "nutrition": {
+      "estimatedCalories": 600,
+      "carbTargetGPerHr": 0,
+      "sodiumMgPerHr": 500,
+      "fluidOzPerHr": 20,
+      "notes": "Under 90 min - water only"
+    },
+    "environment": "road",
+    "elevationGainM": 30
+  },
+  {
+    "id": "w-2026-03-11-wed",
+    "date": "2026-03-11",
+    "type": "RecoveryRun",
+    "title": "Easy Recovery",
+    "rpe": 4,
+    "durationMinutes": 40,
+    "descriptionMd": "## Easy Recovery\n\nLoosen up the legs. Keep this genuinely easy.\n\n- RPE 4-5, full conversation pace\n- Flat to rolling terrain\n- 40 minutes, no more\n- Focus on relaxed form and breathing",
+    "nutrition": {
+      "estimatedCalories": 350,
+      "carbTargetGPerHr": 0,
+      "sodiumMgPerHr": 0,
+      "fluidOzPerHr": 16,
+      "notes": "Hydrate but no fueling needed"
+    },
+    "environment": "road",
+    "elevationGainM": 20
+  },
+  {
+    "id": "w-2026-03-12-thu",
+    "date": "2026-03-12",
+    "type": "EnduranceRun",
+    "title": "Endurance Run - Trail",
+    "rpe": 6,
+    "durationMinutes": 75,
+    "descriptionMd": "## Endurance Run - Trail\n\nSteady aerobic effort on trails. This is your \"forever pace\" - sustainable from start to finish.\n\n- RPE 5-6, rhythmic breathing\n- Choose rolling trail with moderate elevation\n- Build vertical fitness by staying on trails\n- Conversation possible but not effortless",
+    "nutrition": {
+      "estimatedCalories": 750,
+      "carbTargetGPerHr": 0,
+      "sodiumMgPerHr": 500,
+      "fluidOzPerHr": 20,
+      "notes": "Bring water; no fueling needed under 90 min"
+    },
+    "environment": "trail",
+    "elevationGainM": 350
+  },
+  {
+    "id": "w-2026-03-13-fri",
+    "date": "2026-03-13",
+    "type": "TempoRun",
+    "title": "Tempo - Progressive",
+    "rpe": 8,
+    "durationMinutes": 65,
+    "warmup": { "durationMinutes": 15, "rpe": 5, "description": "Easy jog with 6 strides" },
+    "cooldown": { "durationMinutes": 10, "rpe": 4, "description": "Easy jog" },
+    "intervals": [
+      { "durationMinutes": 20, "rpe": 7, "description": "Start at lower end of tempo effort" },
+      { "durationMinutes": 20, "rpe": 8, "description": "Build to full LT effort for the second half" }
+    ],
+    "descriptionMd": "## Tempo - Progressive\n\nA single continuous tempo effort that builds in intensity.\n\n### Structure\n- **Warmup:** 15 min easy + 6 strides\n- **Progressive Tempo:** 40 min total\n  - First 20 min at RPE 7 (lower end of tempo range)\n  - Second 20 min at RPE 8 (full LT effort)\n- **Cooldown:** 10 min easy\n\n### Notes\n- Teaches pacing discipline\n- Resist the urge to start too hard\n- Road or smooth trail preferred for consistent effort",
+    "nutrition": {
+      "estimatedCalories": 650,
+      "carbTargetGPerHr": 0,
+      "sodiumMgPerHr": 500,
+      "fluidOzPerHr": 20
+    },
+    "environment": "road",
+    "elevationGainM": 40
+  },
+  {
+    "id": "w-2026-03-14-sat",
+    "date": "2026-03-14",
+    "type": "EnduranceRun",
+    "title": "Long Run - Mountain Trail",
+    "rpe": 6,
+    "durationMinutes": 150,
+    "descriptionMd": "## Long Run - Mountain Trail\n\nThe cornerstone of the week. Build time on feet and vertical on mountainous terrain.\n\n- RPE 5-6 throughout\n- Target 1000m+ of elevation gain\n- Hike the steepest climbs; run everything else\n- Practice race-day nutrition strategy\n\n### Nutrition Plan\n- Start fueling at 60 min mark\n- Target 200-250 cal/hr from 60 min onward\n- Carry 40-60 oz of water\n- Test race-day foods (gels, bars, real food)",
+    "nutrition": {
+      "estimatedCalories": 1500,
+      "carbTargetGPerHr": 60,
+      "sodiumMgPerHr": 600,
+      "fluidOzPerHr": 24,
+      "notes": "Practice race nutrition from 60 min onward"
+    },
+    "environment": "trail",
+    "elevationGainM": 1100
+  },
+  {
+    "id": "w-2026-03-15-sun",
+    "date": "2026-03-15",
+    "type": "EnduranceRun",
+    "title": "Back-to-Back Long - Easy Trail",
+    "rpe": 5,
+    "durationMinutes": 90,
+    "descriptionMd": "## Back-to-Back Long - Easy Trail\n\nThe second leg of a back-to-back weekend. Your legs will feel heavy; that's the point.\n\n- RPE 5, truly easy\n- Run on trails to practice technical footing on tired legs\n- Keep it conversational\n- If legs are destroyed from Saturday, reduce to 60 min\n\n### Notes\n- This mimics the fatigue of miles 60-80 in a 100-miler\n- Do not push the pace\n- Focus on smooth, efficient movement",
+    "nutrition": {
+      "estimatedCalories": 900,
+      "carbTargetGPerHr": 50,
+      "sodiumMgPerHr": 500,
+      "fluidOzPerHr": 20,
+      "notes": "Practice nutrition; eat early and consistently"
+    },
+    "environment": "trail",
+    "elevationGainM": 500
+  }
+]

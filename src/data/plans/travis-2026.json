@@ -1,0 +1,63 @@
+{
+  "id": "travis-2026",
+  "athleteId": "travis",
+  "season": "2026",
+  "goalRaceId": "ac100-2026",
+  "phases": [
+    {
+      "id": "phase-ri-1",
+      "type": "RI",
+      "startDate": "2026-02-09",
+      "endDate": "2026-03-08",
+      "focusDescription": "Build VO2max ceiling with uphill RunningIntervals",
+      "weeklyFrequency": 2,
+      "notes": "Least specific to 100-mile racing; develop early"
+    },
+    {
+      "id": "phase-tr-1",
+      "type": "TR",
+      "startDate": "2026-03-09",
+      "endDate": "2026-04-26",
+      "focusDescription": "Raise lactate threshold with TempoRun repeats; prep for Sean O'Brien 50K",
+      "weeklyFrequency": 3,
+      "notes": "Hardest phase - balance volume and intensity"
+    },
+    {
+      "id": "phase-ssr-1",
+      "type": "SSR",
+      "startDate": "2026-04-27",
+      "endDate": "2026-06-14",
+      "focusDescription": "Build race-specific aerobic power with SteadyStateRuns; prep for Mt. Disappointment",
+      "weeklyFrequency": 4,
+      "notes": "Increase long run duration; back-to-back weekends"
+    },
+    {
+      "id": "phase-er-1",
+      "type": "ER",
+      "startDate": "2026-06-15",
+      "endDate": "2026-07-26",
+      "focusDescription": "Race-specific endurance; peak volume; course simulation; heat acclimatization",
+      "weeklyFrequency": 6,
+      "notes": "Most specific to AC100. Sauna protocol for heat adaptation."
+    },
+    {
+      "id": "phase-taper",
+      "type": "ER",
+      "startDate": "2026-07-27",
+      "endDate": "2026-08-01",
+      "focusDescription": "Taper and race prep",
+      "weeklyFrequency": 4,
+      "notes": "Reduce volume 40-50%; maintain one SSR session for sharpness"
+    }
+  ],
+  "weeklySchedules": [
+    {
+      "weekStartDate": "2026-03-09",
+      "phaseId": "phase-tr-1",
+      "isRecoveryWeek": false,
+      "workoutIds": ["w-2026-03-09-mon", "w-2026-03-10-tue", "w-2026-03-11-wed", "w-2026-03-12-thu", "w-2026-03-13-fri", "w-2026-03-14-sat", "w-2026-03-15-sun"],
+      "plannedVolumeMinutes": 600,
+      "notes": "First week of TempoRun phase. Hardest workouts at the start."
+    }
+  ]
+}
